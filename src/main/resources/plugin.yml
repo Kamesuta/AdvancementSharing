@@ -1,0 +1,4 @@
+name: AdvancementSharing
+version: '${project.version}'
+main: com.kamesuta.advancementsharing.AdvancementSharing
+api-version: 1.19
